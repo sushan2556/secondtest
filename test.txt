@@ -1,0 +1,4 @@
+adding new folder to github 
+
+move to the new folder using cli
+git init - hit this command in the folder 
