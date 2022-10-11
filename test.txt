@@ -2,3 +2,12 @@ adding new folder to github
 
 move to the new folder using cli
 git init - hit this command in the folder 
+git status - this will show the untracked file in the new folder 
+git add <file name> or git add . --> period stands for all files
+git status 
+git commit -m "commiting the new folder to github"
+git push origin master --> will give error bcoz it is not crated the connection 
+git repote add origin <new repository> --> this will syn the new origin folder where it will push the files
+
+git remote -v --> to check the sync repositories
+git push origin master --> to push the file onto github
