@@ -11,3 +11,7 @@ git repote add origin <new repository> --> this will syn the new origin folder w
 
 git remote -v --> to check the sync repositories
 git push origin master --> to push the file onto github
+
+git add
+git commit -m "message here"
+git push
